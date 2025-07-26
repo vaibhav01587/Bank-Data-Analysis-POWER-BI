@@ -1,3 +1,6 @@
+https://app.powerbi.com/links/cx13oHnLEA?ctid=a0926c08-f418-43a7-bded-06d34af2ed0d&pbi_source=linkShare
+
+
 A bank loan dataset, typically involves a comprehensive collection of information related to loan applications, borrower details, and loan performance.
 
 
